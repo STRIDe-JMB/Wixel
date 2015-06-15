@@ -1,0 +1,6 @@
+09:41:05 **** Build of configuration Default for project wixel_motor_test_2 ****
+make all 
+make: *** No rule to make target `all'.  Stop.
+
+09:41:05 Build Finished (took 90ms)
+
